@@ -1,0 +1,205 @@
+<rdf:RDF>
+<rdf:Description rdf:about="http://publications.europa.eu/resource/genpub/2021.0996">
+<j.0:is_about rdf:resource="http://eurovoc.europa.eu/4038"/>
+<j.0:work_is_about_concept_eurovoc rdf:resource="http://eurovoc.europa.eu/2613"/>
+<j.2:build_info rdf:datatype="http://www.w3.org/2001/XMLSchema#string">
+reception-ID: PO-20220228-736; environment: PROD; CERES: 4.13.4; IMMC2CDM: 3.2.2; rules: genpub/rules-genpub.xml#75488#2021-09-20T15:55:39; builddate: 2022-02-28T05:02:13.749;
+</j.2:build_info>
+<j.0:is_about rdf:resource="http://eurovoc.europa.eu/5787"/>
+<j.0:is_about rdf:resource="http://eurovoc.europa.eu/5283"/>
+<j.0:work_is_about_concept_eurovoc rdf:resource="http://eurovoc.europa.eu/403"/>
+<j.0:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-04-29</j.0:date_document>
+<j.0:work_is_about_concept_eurovoc rdf:resource="http://eurovoc.europa.eu/c_59f9c651"/>
+<j.0:work_is_about_concept_eurovoc rdf:resource="http://eurovoc.europa.eu/1005"/>
+<j.0:is_about rdf:resource="http://eurovoc.europa.eu/2403"/>
+<j.0:authored_by rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/BUDG"/>
+<j.0:work_has_expression rdf:resource="http://publications.europa.eu/resource/genpub/2021.0996.ENG"/>
+<j.0:publication_general_is_about_concept_op_theme rdf:resource="http://publications.europa.eu/resource/authority/pub-theme/A03"/>
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#publication_general"/>
+<j.0:work_is_about_concept_eurovoc rdf:resource="http://eurovoc.europa.eu/3400"/>
+<j.0:has rdf:resource="http://publications.europa.eu/resource/authority/resource-type/PUB_GEN"/>
+<j.0:has rdf:resource="http://publications.europa.eu/resource/authority/target-audience/GEN"/>
+<j.0:is_about rdf:resource="http://publications.europa.eu/resource/authority/pub-theme/A03"/>
+<j.0:work_is_about_concept_eurovoc rdf:resource="http://eurovoc.europa.eu/3560"/>
+<j.0:is_about rdf:resource="http://eurovoc.europa.eu/3560"/>
+<j.0:work_id_document rdf:datatype="http://www.w3.org/2001/XMLSchema#string">genpub:2021.0996</j.0:work_id_document>
+<j.0:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-04-29</j.0:date>
+<j.0:created_by rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/BUDG"/>
+<j.0:is_about rdf:resource="http://eurovoc.europa.eu/1490"/>
+<j.0:is_about rdf:resource="http://eurovoc.europa.eu/1005"/>
+<j.0:work_date_creation_legacy rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-04-30</j.0:work_date_creation_legacy>
+<j.0:is_about rdf:resource="http://eurovoc.europa.eu/2243"/>
+<j.0:work_is_about_concept_eurovoc rdf:resource="http://eurovoc.europa.eu/2403"/>
+<j.0:work_is_about_concept_eurovoc rdf:resource="http://eurovoc.europa.eu/5283"/>
+<j.0:work_is_about_concept_eurovoc rdf:resource="http://eurovoc.europa.eu/438855"/>
+<j.0:is_about rdf:resource="http://eurovoc.europa.eu/403"/>
+<j.0:work_authored_by_agent rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/BUDG"/>
+<j.0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">genpub:2021.0996</j.0:identifier>
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#work"/>
+<j.0:is_about rdf:resource="http://eurovoc.europa.eu/c_59f9c651"/>
+<j.0:publication_general_has_target_audience rdf:resource="http://publications.europa.eu/resource/authority/target-audience/GEN"/>
+<j.0:work_created_by_agent rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/BUDG"/>
+<j.0:work_is_about_concept_eurovoc rdf:resource="http://eurovoc.europa.eu/5787"/>
+<j.0:is_about rdf:resource="http://eurovoc.europa.eu/3400"/>
+<j.0:is_about rdf:resource="http://eurovoc.europa.eu/2613"/>
+<j.0:work_has_resource-type rdf:resource="http://publications.europa.eu/resource/authority/resource-type/PUB_GEN"/>
+<j.0:id_document rdf:datatype="http://www.w3.org/2001/XMLSchema#string">genpub:2021.0996</j.0:id_document>
+<j.0:work_is_about_concept_eurovoc rdf:resource="http://eurovoc.europa.eu/1490"/>
+<j.0:is_about rdf:resource="http://eurovoc.europa.eu/438855"/>
+<j.0:work_date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-04-29</j.0:work_date_document>
+<j.0:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-04-30</j.0:date>
+<j.0:work_is_about_concept_eurovoc rdf:resource="http://eurovoc.europa.eu/2243"/>
+<j.0:work_is_about_concept_eurovoc rdf:resource="http://eurovoc.europa.eu/4038"/>
+<j.0:date_creation_legacy rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-04-30</j.0:date_creation_legacy>
+</rdf:Description>
+<rdf:Description rdf:about="http://eurovoc.europa.eu/5283">
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept_eurovoc"/>
+<j.1:inScheme rdf:resource="http://eurovoc.europa.eu"/>
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept"/>
+<j.1:inScheme rdf:resource="http://eurovoc.europa.eu/100141"/>
+<j.0:concept_eurovoc_subject_of_work rdf:resource="http://publications.europa.eu/resource/genpub/2021.0996"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://eurovoc.europa.eu/2243">
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept_eurovoc"/>
+<j.1:inScheme rdf:resource="http://eurovoc.europa.eu"/>
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept"/>
+<j.1:inScheme rdf:resource="http://eurovoc.europa.eu/100141"/>
+<j.0:concept_eurovoc_subject_of_work rdf:resource="http://publications.europa.eu/resource/genpub/2021.0996"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://publications.europa.eu/resource/authority/pub-theme/A03">
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept_op_theme"/>
+<j.1:inScheme rdf:resource="http://publications.europa.eu/resource/authority/pub-theme"/>
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept"/>
+<j.1:inScheme rdf:resource="http://publications.europa.eu/resource/authority/pub_them"/>
+<j.0:concept_op_theme_subject_of_publication_general rdf:resource="http://publications.europa.eu/resource/genpub/2021.0996"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://eurovoc.europa.eu/4038">
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept_eurovoc"/>
+<j.1:inScheme rdf:resource="http://eurovoc.europa.eu"/>
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept"/>
+<j.1:inScheme rdf:resource="http://eurovoc.europa.eu/100141"/>
+<j.0:concept_eurovoc_subject_of_work rdf:resource="http://publications.europa.eu/resource/genpub/2021.0996"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://eurovoc.europa.eu/2403">
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept_eurovoc"/>
+<j.1:inScheme rdf:resource="http://eurovoc.europa.eu"/>
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept"/>
+<j.1:inScheme rdf:resource="http://eurovoc.europa.eu/100141"/>
+<j.0:concept_eurovoc_subject_of_work rdf:resource="http://publications.europa.eu/resource/genpub/2021.0996"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://eurovoc.europa.eu/2613">
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept_eurovoc"/>
+<j.1:inScheme rdf:resource="http://eurovoc.europa.eu"/>
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept"/>
+<j.1:inScheme rdf:resource="http://eurovoc.europa.eu/100141"/>
+<j.0:concept_eurovoc_subject_of_work rdf:resource="http://publications.europa.eu/resource/genpub/2021.0996"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://publications.europa.eu/resource/authority/resource-type/PUB_GEN">
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#resource-type"/>
+<j.1:inScheme rdf:resource="http://publications.europa.eu/resource/authority/resource-type"/>
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept_decoding"/>
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://publications.europa.eu/resource/authority/target-audience">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://eurovoc.europa.eu/438855">
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept_eurovoc"/>
+<j.1:inScheme rdf:resource="http://eurovoc.europa.eu"/>
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept"/>
+<j.1:inScheme rdf:resource="http://eurovoc.europa.eu/100141"/>
+<j.0:concept_eurovoc_subject_of_work rdf:resource="http://publications.europa.eu/resource/genpub/2021.0996"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://eurovoc.europa.eu/3560">
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept_eurovoc"/>
+<j.1:inScheme rdf:resource="http://eurovoc.europa.eu"/>
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept"/>
+<j.1:inScheme rdf:resource="http://eurovoc.europa.eu/100141"/>
+<j.0:concept_eurovoc_subject_of_work rdf:resource="http://publications.europa.eu/resource/genpub/2021.0996"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://publications.europa.eu/resource/authority/resource-type">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://eurovoc.europa.eu/3400">
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept_eurovoc"/>
+<j.1:inScheme rdf:resource="http://eurovoc.europa.eu"/>
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept"/>
+<j.1:inScheme rdf:resource="http://eurovoc.europa.eu/100141"/>
+<j.0:concept_eurovoc_subject_of_work rdf:resource="http://publications.europa.eu/resource/genpub/2021.0996"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://eurovoc.europa.eu/1490">
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept_eurovoc"/>
+<j.1:inScheme rdf:resource="http://eurovoc.europa.eu"/>
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept"/>
+<j.1:inScheme rdf:resource="http://eurovoc.europa.eu/100141"/>
+<j.0:concept_eurovoc_subject_of_work rdf:resource="http://publications.europa.eu/resource/genpub/2021.0996"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://eurovoc.europa.eu/5787">
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept_eurovoc"/>
+<j.1:inScheme rdf:resource="http://eurovoc.europa.eu"/>
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept"/>
+<j.1:inScheme rdf:resource="http://eurovoc.europa.eu/100141"/>
+<j.0:concept_eurovoc_subject_of_work rdf:resource="http://publications.europa.eu/resource/genpub/2021.0996"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://eurovoc.europa.eu/1005">
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept_eurovoc"/>
+<j.1:inScheme rdf:resource="http://eurovoc.europa.eu"/>
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept"/>
+<j.1:inScheme rdf:resource="http://eurovoc.europa.eu/100141"/>
+<j.0:concept_eurovoc_subject_of_work rdf:resource="http://publications.europa.eu/resource/genpub/2021.0996"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body/BUDG">
+<j.1:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body"/>
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#institution"/>
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#agent"/>
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://eurovoc.europa.eu/403">
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept_eurovoc"/>
+<j.1:inScheme rdf:resource="http://eurovoc.europa.eu"/>
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept"/>
+<j.1:inScheme rdf:resource="http://eurovoc.europa.eu/100141"/>
+<j.0:concept_eurovoc_subject_of_work rdf:resource="http://publications.europa.eu/resource/genpub/2021.0996"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://eurovoc.europa.eu">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/d3e77637-a963-11eb-9585-01aa75ed71a1">
+<owl:sameAs rdf:resource="http://publications.europa.eu/resource/genpub/2021.0996"/>
+<j.3:lastModificationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-28T05:07:11.639+01:00</j.3:lastModificationDate>
+<j.3:creationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-04-30T05:26:14.139+02:00</j.3:creationDate>
+</rdf:Description>
+<rdf:Description rdf:about="http://publications.europa.eu/resource/authority/pub-theme">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://publications.europa.eu/resource/authority/target-audience/GEN">
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#target_audience"/>
+<j.1:inScheme rdf:resource="http://publications.europa.eu/resource/authority/target-audience"/>
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept"/>
+<j.1:inScheme rdf:resource="http://publications.europa.eu/resource/authority/target_audience"/>
+<j.0:target_audience_belongs_to_publication_general rdf:resource="http://publications.europa.eu/resource/genpub/2021.0996"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://eurovoc.europa.eu/c_59f9c651">
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept_eurovoc"/>
+<j.1:inScheme rdf:resource="http://eurovoc.europa.eu"/>
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#concept"/>
+<j.1:inScheme rdf:resource="http://eurovoc.europa.eu/100141"/>
+<j.0:concept_eurovoc_subject_of_work rdf:resource="http://publications.europa.eu/resource/genpub/2021.0996"/>
+</rdf:Description>
+</rdf:RDF>
