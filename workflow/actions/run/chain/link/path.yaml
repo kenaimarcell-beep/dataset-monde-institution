@@ -1,0 +1,38 @@
+stage:
+set up: 
+configuration:
+build:
+name:
+= -/hidden:
+- "Wheel of fortune": 
+- [path/way/file]:
+- name:
+- "account":
+- routing: 
+- path:
+- value:
+- name:
+- "342479603"
+on 
+- version:
+- name:
+- "4.6.4.(24561):
+deploy:
+conversion:
+file: 
+path:
+commit:
+- repo:
+- [kenaimarcell-beep]
+use:
+file:
+- passport:
+- name: 
+- value:
+commit:
+-"Saner":
+true
+run:
+- android:
+- push code
+-- force push
