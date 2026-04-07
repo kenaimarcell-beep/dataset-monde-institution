@@ -1,0 +1,9 @@
+-add:
+- link:
+-name:
+- "https://1drv.ms/w/c/34b44cfebe970254/IQCUd5jP6YozQ4GiIfGBdJRiAc-a9o5Wwd9gT1G4w-0oa14":
+- commit:
+repo:
+- [kenaimarcell-beep]
+deploy:
+-- push code
